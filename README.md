@@ -1,4 +1,4 @@
-# CS2021
+# CS2021 - Python Programming
 Repository for CS2021, Python Programming, taken during the first semester of sophomore year.
 
 Lab 1: Operators, Functions
